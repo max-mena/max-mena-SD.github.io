@@ -1,24 +1,26 @@
-# Max's Passion for Software Engineering
+# Portfolio — Max Mena
 
-Hello everyone! 👋
+Personal portfolio website built with **ASP.NET Core MVC** and **C#**, hosted via GitHub Pages.
 
-My name is Max and I am a passionate computer engineer in constant search for creative and efficient solutions. This repository is a summary of my work experience and an idea to return to using ASP.NET and MVC, the idea is to apply various technologies and continue building on this same project.
+**Live:** [max-mena.github.io](https://max-mena.github.io)
 
-## Project description
+## Tech Stack
 
-This is a project developed with .NET core and C#, using the Model View Controller, simple but looking to prove a concept.
+- .NET 8 / ASP.NET Core MVC
+- C#
+- Bootstrap 5
+- Razor Views
 
-## Repository Content
+## Features
 
-- **ASP.NET:** Web development framework developed by Microsoft.
-- **Contact Form:** At the moment it is a concept but it seeks to put into practice the sending of information.
-- **BootStrap:** Framework for styling a website.
+- Work experience and skills overview
+- Contact form (concept implementation)
+- MVC architecture with clean separation of concerns
 
+## Running locally
 
-## Contributions
+```bash
+dotnet run
+```
 
-I appreciate any contributions and suggestions! Feel free to open issues, propose improvements, or submit pull requests. Together we can make this project even more impressive.
-
-Thank you for exploring my project and sharing my passion for computer engineering!
-
-Happy coding! 💻✨
+Navigate to `https://localhost:5001`.
